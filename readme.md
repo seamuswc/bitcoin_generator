@@ -1,8 +1,11 @@
 # Bitcoin Address Generator
 
 `built with python3.9`
+
 `qrcode: To install, use the command pip install qrcode.`
+
 `bitcoin: To install, use the command pip install bitcoin.`
+
 `blockcypher: To install, use the command pip install blockcypher.`
 
 `python ui.rb`
